@@ -31,7 +31,7 @@ When I'm not working with data, I enjoy watching football, reading, and trading 
 
 ## 🌱 Currently Learning 
 
-- Advanced machine learning techniques in Scikit-learn.
+- Advanced machine learning with Stanford Online.
 
 ## 🛠️ Technical Skillset
 
