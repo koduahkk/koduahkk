@@ -49,12 +49,12 @@ When I'm not working with data, I enjoy watching football, reading, and trading 
 #### Programming & Automation
 <p>
   <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/MatLab-Beginner-276DC3?style=flat&logo=matlab&logoColor=white" alt="Matlab Skill Badge">
+  <img src="https://img.shields.io/badge/MatLab-Intermediate-276DC3?style=flat&logo=matlab&logoColor=white" alt="Matlab Skill Badge">
 </p>
 
 #### Business Intelligence & Analytics
 <p>
+  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
 </p>
