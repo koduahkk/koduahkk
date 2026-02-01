@@ -26,6 +26,7 @@ When I'm not working with data, I enjoy watching football, reading, and trading 
 
 - **Project A:** Building an HR succession planning dashboard in Tableau.  
 - **Project B:** Creating an interactive marketing dashboard in Power BI.
+- **Project C:** Automating data cleaning process with Python and Alteryx.
 
 
 ## 🌱 Currently Learning 
