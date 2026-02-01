@@ -24,8 +24,8 @@ When I'm not working with data, I enjoy watching football, reading, and trading 
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** Building an HR succession planning report.  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project A:** Building an HR succession planning dashboard in Tableau.  
+- **Project B:** Creating an interactive marketing dashboard in Power BI.
 
 
 ## 🌱 Currently Learning 
